@@ -50,6 +50,7 @@ I design and ship end-to-end systems: **agentic infrastructure, LLM inference pi
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20Vector%20DBs-4B8BBE?style=flat-square&logo=databricks&logoColor=white)
 ![GenAI](https://img.shields.io/badge/GenAI-7C3AED?style=flat-square&logo=huggingface&logoColor=white)
 ![TinyML](https://img.shields.io/badge/TinyML%20%2F%20Edge%20AI-EE4C2C?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Languages**
 
@@ -59,6 +60,8 @@ I design and ship end-to-end systems: **agentic infrastructure, LLM inference pi
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Frontend / Mobile**
 
@@ -67,15 +70,18 @@ I design and ship end-to-end systems: **agentic infrastructure, LLM inference pi
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend / Cloud / DevOps**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
@@ -87,16 +93,8 @@ I design and ship end-to-end systems: **agentic infrastructure, LLM inference pi
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![BLE](https://img.shields.io/badge/BLE%20%2F%20Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white)
 ![Jetson](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Coral](https://img.shields.io/badge/Google%20Coral-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Firmware](https://img.shields.io/badge/Firmware-555555?style=flat-square&logo=arduino&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=blah-mad&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blah-mad&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🤝 Let's work together
 
