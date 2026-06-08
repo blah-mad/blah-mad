@@ -4,6 +4,11 @@
 
 ### Jack of All Codes · Building the missing primitives for agentic software
 
+![Profile views](https://komarev.com/ghpvc/?username=blah-mad&color=blueviolet&style=flat-square&label=Profile+views)
+![Location](https://img.shields.io/badge/Based%20in-Berlin%2C%20Germany-informational?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20Agents%20%2F%20LLMs%20%2F%20GenAI-7C3AED?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open%20to-Consulting%20%26%20Advisory-2ea44f?style=flat-square)
+
 </div>
 
 I'm a software engineer and founder with **10+ years** of experience shipping production systems across **mobile, embedded, cloud, and AI**. Today I'm focused almost entirely on **AI agents, LLMs, GenAI, and automation**, building my own products and the infrastructure that lets agents safely act across real software.
@@ -25,6 +30,10 @@ open_to: consulting / fractional / advisory engagements
 - **[Weavz.io](https://weavz.io)** is the action-infrastructure layer for AI agents and AI-native products: 500+ integrations, hosted OAuth, MCP servers, Code-Mode execution, end-user identity, approval gates, triggers, scoped state, and TypeScript/Python SDKs, so teams don't rebuild the same integration plumbing.
 - **[Agentec.io](https://agentec.io)** is a platform for deploying production-grade AI agents and copilots: deployment, orchestration, memory, handoffs, tools, and security for real workflows.
 - **Fnctn Inc.** is where I explore autonomous, adaptive software systems and how they compound global productivity.
+
+## 📌 Featured work
+
+- **[Context Surgeon](https://github.com/blah-mad/context-surgeon)** is a source-grounded context compiler for AI agents: it turns messy artifacts into agent-readable memory with provenance, conflict detection, and surgical Fact Patch updates. Built with Next.js, TypeScript, Gemini, and Cloudflare Workers. [Live demo](https://contextsurgeon.fnctn.io)
 
 ## 🧠 What I do
 
@@ -78,6 +87,7 @@ I design and ship end-to-end systems: **agentic infrastructure, LLM inference pi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
