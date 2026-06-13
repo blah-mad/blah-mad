@@ -34,6 +34,9 @@ open_to: consulting / fractional / advisory engagements
 ## 📌 Featured work
 
 - **[Context Surgeon](https://github.com/blah-mad/context-surgeon)** is a source-grounded context compiler for AI agents: it turns messy artifacts into agent-readable memory with provenance, conflict detection, and surgical Fact Patch updates. Built with Next.js, TypeScript, Gemini, and Cloudflare Workers. [Live demo](https://contextsurgeon.fnctn.io)
+- **[Ghost in the Droid](https://github.com/blah-mad/android-agent)** is an open-source device automation framework for real Android and iOS phones: ADB, Appium/XCUITest, live screen streaming, reusable skills, phone-farm scheduling, and LLM-assisted skill creation.
+- **[Reem](https://github.com/blah-mad/reem-bot)** is a real-time FNOL voice agent for car insurance claims: Pipecat, Gemini, Gradium, Twilio Media Streams, code-mode MCP tools, and a live Cloudflare Containers dashboard.
+- **[SignalCut](https://github.com/blah-mad/signalcut)** turns AI-search visibility gaps into source-backed video campaigns: Peec AI context, Tavily evidence, Gemini strategy, Hera video generation, and a Cloudflare Pages product flow.
 
 ## 🧠 What I do
 
